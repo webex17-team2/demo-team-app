@@ -2,7 +2,7 @@
   <footer class="footer">
     <div>
       This Application is made by
-      <span class="names">yoshihito, 水野未悠 ,レンand ○○○</span>.
+      <span class="names">yoshihito, 水野未悠 ,レン ,でらりょー</span>.
     </div>
     <small
       >The Application is created as a part of the GeekSalon WebExpert
